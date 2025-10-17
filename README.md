@@ -17,9 +17,6 @@ This project demonstrates the power of **unsupervised machine learning** for pro
 
 ## 🔬 Technical Approach
 
-### **From Supervised to Unsupervised Learning**
-This project builds on supervised text classification principles (like Reuters news categorization) but tackles the more challenging problem of **discovering patterns without labeled data**. The key insight: both approaches rely on converting text to numerical representations, but unsupervised methods let the data reveal its own natural structure.
-
 ### **Core Methodology**
 
     Raw Text → TF-IDF Vectorization → Clustering + Topic Modeling → Business Insights
